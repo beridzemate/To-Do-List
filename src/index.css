@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: #FF76CE;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+#primary--heading{
+    font-size: 2rem;
+}
